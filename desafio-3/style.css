@@ -1,0 +1,12 @@
+#primeiro-p {
+    background-color: #F5F5F5;
+}
+
+#segundo-p {
+    background-color: #F0CCE2;
+}
+
+p {
+    padding: 40px;
+    margin: 40px;
+}
